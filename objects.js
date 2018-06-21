@@ -1,6 +1,7 @@
 
 var playlist = { artistName: "song title" }
 
+<<<<<<< HEAD
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artistName] = "song title"
   return playlist
@@ -12,3 +13,5 @@ function updatePlaylist(playlist, artistName, songTitle) {
   }
   
     
+=======
+>>>>>>> 69d270a0dae46ce1f0ff6c92a87296c8931ce10e
